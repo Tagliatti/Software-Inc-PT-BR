@@ -29,7 +29,7 @@ Você pode construir quartos em qualquer forma ou dividir quartos em dois, clica
 Clique em Continuar quando estiver pronto.</Message>
     <Message id="BUILD MODE5">Você pode mover para cima e para baixo pisos pressionando Q e E.
 
-Agora vamos &amp;apos; s adicionar janelas e portas. Você pode selecionar uma categoria ou procure "janela" ou "porta" no painel de construção.</Message>
+Agora vamos adicionar janelas e portas. Você pode selecionar uma categoria ou procure "janela" ou "porta" no painel de construção.</Message>
     <Message id="BUILD MODE6">Observe como a sala se ilumina quando você adiciona janelas, certifique-se de adicionar o suficiente para que seus funcionários possam ver.
 
 Você pode inspecionar iluminação, ambiente, temperatura e condições de ruído, clicando em e selecionando a quarto.</Message>
@@ -41,7 +41,7 @@ Tente mudar a cor do seu quarto, clicando o botão direito e clique no botão "c
 Se você gosta do estilo que você tem dado um quarto ou peça de mobiliário, você pode defini-lo como padrão no menu de contexto do botão direito.
 
 Clique em Aplicar quando você está pronto ou fechar a janela, se você quiser cancelar as alterações.</Message>
-    <Message id="BUILD MODE9">Let &amp;apos; s colocar alguns móveis em sua nova sala
+    <Message id="BUILD MODE9">Vamos colocar alguns móveis em sua nova sala
 
 Criar uma nova tabela clicando no botão "Furnish" ou à procura de "mesa"..</Message>
     <Message id="BUILD MODE10">Agora adicione uma cadeira. Cadeiras só podem ser adicionados às tabelas.
@@ -50,13 +50,13 @@ Note-se que a mobília com várias camadas, como cadeiras, pode ser atualizado d
     <Message id="BUILD MODE11">Por fim, adicione um computador. Quando você adiciona um computador, clique e segure onde você deseja adicioná-lo e arraste o mouse na direção que você quer que ele para enfrentar, finalmente, solte o botão do mouse para colocá-lo.
 
 Os computadores têm de se sentar no cima de uma mesa e enfrentar uma cadeira.</Message>
-    <Message id="BUILD MODE12">Quando você colocar mesas lado uns dos outros eles serão agrupados se eles don &amp;apos; t tem nada em cima deles. Tabelas que são agrupados pode ser usado para reuniões. Para ver quais tabelas são agrupados, basta destacar uma mesa e ele &amp;apos; s grupo será destacada em azul
+    <Message id="BUILD MODE12">Quando você colocar mesas lado uns dos outros eles serão agrupados se eles não tem nada em cima deles. Tabelas que são agrupados pode ser usado para reuniões. Para ver quais tabelas são agrupados, basta destacar uma mesa e esse grupo será destacada em azul
 
 Clique em "Continuar" para avançar..</Message>
     <Message id="BUILD MODE13">O seu fundador não se cansa, com fome, frio ou precisa usar o banheiro, mas quando você contratar novos funcionários que eles vão. Então, certifique-se de adicionar pelo menos um frigorífico, uma máquina de café, um radiador, um ventilador e uma sala de banho separada antes de contratar novos funcionários.
 
 Clique em "Continuar" para avançar.</Message>
-    <Message id="BUILD MODE14">Agora, vamos &amp;apos; s atribuir o espaço para uma equipe, os funcionários de outras equipes, então, não pode usá-lo ou até mesmo passar por ele
+    <Message id="BUILD MODE14">Agora, vamos atribuir o espaço para uma equipe, os funcionários de outras equipes, então, não pode usá-lo ou até mesmo passar por ele
 
 clique com o botão direito seu quarto novo e escolha "equipa Switch", que. se assemelha a um círculo com setas. Uma janela aparecerá, clique em "core" para atribuir o espaço para a equipe principal.</Message>
     <Message id="BUILD MODE15">Lembre-se de atribuir empregados a uma equipe bem. Você pode fazer isso clicando com o botão direito sobre um empregado e escolher "equipa Switch" ou da janela funcionários. Todos os funcionários são automaticamente atribuídas a uma equipe, se houver apenas uma equipe em sua empresa.
@@ -66,7 +66,7 @@ Segurando a tecla Shift ao clicar em objetos, quartos ou funcionários lhe permi
 Tente selecionar pelo menos 2 coisas no jogo.</Message>
     <Message id="BUILD MODE16">Se você quiser mesclar dois quartos, apenas segure a tecla Shift e clique para selecionar os quartos que você deseja mesclar, clique direito e escolha a opção "Mesclar quartos" no menu de contexto.
 
-Agora , deixe &amp;apos; s sair do modo de Build.</Message>
+Agora, vamos sair do modo de Build.</Message>
     <Message id="BUILD MODE17">Quando estiver pronto, abra a janela funcionários para começar a gerenciar seus funcionários.</Message>
     <Message id="CONTRACTS1">Comece abrindo a janela do contrato.</Message>
     <Message id="CONTRACTS2">Esta é uma lista de contratos disponíveis. Novos contratos serão adicionadas como os mais velhos estão concluídas.
@@ -80,10 +80,10 @@ Procurar os contratos agora e aceitar que você acha que soa justo.</Message>
     <Message id="CUSTOMIZATION4">E um gênero.</Message>
     <Message id="CUSTOMIZATION5">Estes botões permitem que você escolha as cores de seu fundador e seus/suas roupas.</Message>
     <Message id="CUSTOMIZATION6">Estes botões irá percorrer diferentes estilos de cabelo, rostos, calças e jaquetas para o seu fundador.</Message>
-    <Message id="CUSTOMIZATION7">Aqui você pode buscá-fundador &amp;apos; s traços de personalidade
+    <Message id="CUSTOMIZATION7">Aqui você pode buscar traços de personalidade do fundador.
 
-Você pode escolher duas características que irão afectar o seu fundador &amp;apos;. S comportamento (liderança, capacidade de aprender e preguiça) e as relações inter-office.</Message>
-    <Message id="CUSTOMIZATION8">Aqui você pode buscá-fundador &amp;apos;. S pontos de habilidade e especializações, o que afetará o desempenho do seu fundador
+Você pode escolher duas características que irão afectar o seu fundador comportamento (liderança, capacidade de aprender e preguiça) e as relações inter-office.</Message>
+    <Message id="CUSTOMIZATION8">Aqui você pode buscar pontos de habilidade e especializações do fundador, o que afetará o desempenho do seu fundador
 
 Especializações são limitados pela habilidade, por isso, se o seu fundador tem habilidade baixo design, ele/ela também será pouco qualificados na especialização de design que você escolher.
 
@@ -110,7 +110,7 @@ Note-se que tudo no jogo vai passar relativamente mais lento para coincidir com 
 Comece escolhendo um tipo de software.
 
 Clique continuar a fazer avançar o tutorial.</Message>
-    <Message id="DESIGN DOCUMENT3">Se for o caso, você pode escolher uma categoria de software. Cada categoria para um tipo de software tem diferentes tempos de desenvolvimento, popularidade, a retenção de público, características e it &amp;apos; s próprio público-alvo.</Message>
+    <Message id="DESIGN DOCUMENT3">Se for o caso, você pode escolher uma categoria de software. Cada categoria para um tipo de software tem diferentes tempos de desenvolvimento, popularidade, a retenção de público, características e seu público-alvo.</Message>
     <Message id="DESIGN DOCUMENT4">Em seguida, escolher um nome. Você pode escrever um você mesmo ou pressione o "Nome:" botão para tê-lo gerado.</Message>
     <Message id="DESIGN DOCUMENT5">Você também pode escolher um preço. Se você deixar o campo preço sozinho, o melhor preço será escolhido com base no software e recursos que você tenha escolhido. Você pode clicar no botão de preço para repor o preço.</Message>
     <Message id="DESIGN DOCUMENT6">Agora você deve escolher características de seu produto. Cada recurso leva tempo para se desenvolver e saldos inovação, estabilidade e usabilidade, então escolha com cuidado.
@@ -134,7 +134,7 @@ Você pode escolher seus sistemas operacionais aqui. Se nada for mostrado, o tip
 Pressione "Continue" para continuar.</Message>
     <Message id="DESIGN DOCUMENT11">Você pode fazer o seu software uma sequela de um produto que você fez anteriormente, ou que você comprou de outra empresa. Você pode fazer isso clicando neste botão e selecionar um produto como você fez com sistemas operacionais e necessidades de software
 
-fazer uma sequela vai dar um impulso marketing e mudar seus fãs &amp;apos.; expectativas dependendo do sucesso de seus antecessores.
+fazer uma sequela vai dar um impulso marketing e mudar seus fãs expectativas dependendo do sucesso de seus antecessores.
 
 Recursos que foram implementadas para o predecessor será destacado em laranja no painel de recurso, esses recursos serão desenvolvidos mais rápido quando você desenvolver seu produto.</Message>
     <Message id="DESIGN DOCUMENT12">Você também pode fazer o seu software in-house, o que significa que você não vai vendê-lo para outras empresas
@@ -190,7 +190,7 @@ Quando você começar um novo jogo você já é. publicando através de todos os
 Imprensa continuar a avançar o tutorial.</Message>
     <Message id="DISTRIBUTION3">Você também tem a opção de abrir o seu próprio canal de distribuição, que outras empresas podem fazer uso.
 
-Note que isto requer um farm de servidores robustos ou as pessoas vão ficar com raiva de sua empresa. &lt;Br/&gt;
+Note que isto requer um farm de servidores robustos ou as pessoas vão ficar com raiva de sua empresa.
 
 Pressione Fim para terminar o tutorial.</Message>
     <Message id="EDUCATION1">Comece o tutorial ao selecionar um ou mais dos seus funcionários, clique direito em qualquer lugar na tela para abrir o menu de ação e, em seguida, escolher "educar".</Message>
@@ -279,7 +279,7 @@ O orçamento será debitado de sua conta todos os dias. O montante deduzido depe
 Precione "Iniciar" para iniciar a sua campanha..</Message>
     <Message id="MARKETING4">O seu novo plano de marketing irá aparecer como um item de trabalho na direita. Lembre-se de atribuir uma equipe ou nada será feito
 
-O item de trabalho vai encher-se como o dia potencial de marketing está sendo alcançada, o que lhe diz quanto do orçamento foi usado hoje &lt;. br /&gt;
+O item de trabalho vai encher-se como o dia potencial de marketing está sendo alcançada, o que lhe diz quanto do orçamento foi usado hoje.
 
 Precione "End" para acabar com o tutorial.</Message>
     <Message id="PROJECT MANAGEMENT1">Para habilitar o gerenciamento de projeto abrir a janela de equipa</Message>
