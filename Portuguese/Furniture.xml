@@ -126,7 +126,7 @@
 	</Furniture>
 	<Furniture Name="Cubicle wall">
 		<Name>Parede do cubículo</Name>
-		<Description>Lugar intelligenty estas paredes para reduzir o ruído em torno de espaços de trabalho. Observe que as paredes do cubículo aumentam isolamento de empregado.</Description>
+		<Description>Lugar inteligente estas paredes para reduzir o ruído em torno de espaços de trabalho. Observe que as paredes do cubículo aumentam isolamento de empregado.</Description>
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lâmpada</Name>
@@ -163,8 +163,8 @@
 		<Color3>Lighting</Color3>
 	</Furniture>
 	<Furniture Name="Vending Machine">
-		<Name>Máquina de vendas</Name>
-		<Description>Gerador de alimentos</Description>
+		<Name>Máquina de venda automática</Name>
+		<Description>Gerador de comida</Description>
 	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Geladeira</Name>
@@ -203,7 +203,7 @@
 	</Furniture>
 	<Furniture Name="Watercooler">
 		<Name>Refrigerador de água</Name>
-		<Description>Um lugar para socializar os funcionários</Description>
+		<Description>Um lugar para os funcionários para socializar</Description>
 		<Color1>Shade</Color1>
 		<Color2>Support</Color2>
 	</Furniture>

@@ -1554,6 +1554,93 @@ Tem certeza que deseja continuar?</Item>
 		<Item Name="Preparing food">Preparando comida</Item>
 		<Item Name="Serving food">Servindo comida</Item>
 		<Item Name="Canteen">Cantina</Item>
+		<Item Name="NameChangeTitle">Novo nome</Item>
+		<Item Name="NameChangePrompt">Nome do empregado:</Item>
+		<Item Name="Change name">Alterar nome</Item>
+		<Item Name="DeleteKeyHintHint">Você pode configurar um atalho de teclado para demitir funcionários e destruir objetos. O padrão é a tecla DELETE</Item>
+		<Item Name="SaveFailIOError">Falha ao salvar o jogo com a mensagem de erro:
+{0}</Item>
+		<Item Name="Currency short form">Forma abreviada de moeda</Item>
+		<Item Name="MillionPost">M</Item>
+		<Item Name="BillionPost">B</Item>
+		<Item Name="UpdateBlueprint">Atualizar blueprint</Item>
+		<Item Name="SplitUnsupported">Esta separação resultaria em quartos sem suporte</Item>
+		<Item Name="ModActivateError">Falha de activação mod. Verifique o log para detalhes.</Item>
+		<Item Name="HexColor">Hex</Item>
+		<Item Name="BlueprintDeleteConfirmation">Você tem certeza de que deseja excluir blueprint: {0}?</Item>
+		<Item Name="TeamDisbandConfirmation">Tem certeza que deseja desfazer a equipe: {0}?</Item>
+		<Item Name="Open console">Abrir console</Item>
+		<Item Name="Recommended designers">Designers de recomendados</Item>
+		<Item Name="Recommended programmers">Programadores recomendados</Item>
+		<Item Name="Recommended artists">Artistas recomendados</Item>
+		<Item Name="LampTestHint">Você pode alterar as condições de iluminação no modo de compilação no canto inferior esquerdo abaixo as categorias.
+Isso também permitirá que você veja suas lâmpadas em ação.</Item>
+		<Item Name="CookStoveWarning">Um cozinheiro é incapaz de encontrar um fogão.
+Certifique-se de que você tem um para cada cozinheiro e pelo menos um frigorífico e bandeja de servir</Item>
+		<Item Name="ServerDelegateError">Você não pode redelegar um processo de servidor para o servidor que já está ligado</Item>
+		<Item Name="Cancel Deal">Cancelar oferta</Item>
+		<Item Name="Make Deal">Fazer um acordo</Item>
+		<Item Name="SteamUploadDirectoryError">Diretório não existe: {0}</Item>
+		<Item Name="Meeting">Reunião</Item>
+		<Item Name="Function">Função</Item>
+		<Item Name="Capacity">Capacidade</Item>
+		<Item Name="Anchor grid">Grelha de âncora</Item>
+		<Item Name="Reset grid">Redefinir grade</Item>
+		<Item Name="Feedback">Comentários</Item>
+		<Item Name="E-mail">E-mail</Item>
+		<Item Name="Message">Mensagem</Item>
+		<Item Name="Files">Arquivos</Item>
+		<Item Name="Send">Enviar</Item>
+		<Item Name="MailInvalid">Digite um endereço de e-mail válido ou deixe o campo vazio</Item>
+		<Item Name="ReportSuccess">Report sent successfully</Item>
+		<Item Name="ReportFailure">Falha no envio do relatório. Você quer tentar mais tarde?
+Erro:</Item>
+		<Item Name="Include log file">Incluir arquivo de log</Item>
+		<Item Name="Include save file">Incluir arquivo salvar</Item>
+		<Item Name="Include PC specs">Incluir especificações de PC</Item>
+		<Item Name="NoFeedbackError">Please write at least 50 letters in your message</Item>
+		<Item Name="CrashMessage">O jogo detectou um acidente na sua última execução, você quer notificar o desenvolvedor agora?</Item>
+		<Item Name="ExceptionMessage">O jogo detectou um erro, você deseja notificar o desenvolvedor agora?</Item>
+		<Item Name="MailPlaceholder">(OPCIONAIS) Permite-me entrar em contato com você para mais informações</Item>
+		<Item Name="ReportMessagePlaceholder">Digite sua mensagem para o desenvolvedor aqui</Item>
+		<Item Name="TryLaterConfirm">Seu relatório foi salvo e será repetido na próxima vez que você iniciar o jogo</Item>
+		<Item Name="ReportDelayError">You can only send a report once every 5 minutes</Item>
+		<Item Name="Report">Reportar</Item>
+		<Item Name="ScreenshotDev">Reportar imagem</Item>
+		<Item Name="SaveGameFail2">Falha ao guardar o jogo. O jogo continuará, mas você pode ter um comportamento estranho ou perda de dados.
+O erro foi registrado. Deseja também enviar um relatório de erro para o desenvolvedor?
+Desculpe pela inconveniência.</Item>
+		<Item Name="LoadGameFail2">Falha ao carregar o jogo. O jogo continuará, mas você pode ter um comportamento estranho ou perda de dados.
+O erro foi registrado. Deseja também enviar um relatório de erro para o desenvolvedor?
+Desculpe pela inconveniência.</Item>
 	</Alpha8.10>
+	<Alpha8.11>
+			<Item Name="FurnitureLoadError">Um móvel chamado {0} não estava presente no seu computador. O jogo terá de carregar o seu arquivo de salvar sem este mobiliário, que pode quebrar o jogo.</Item>
+			<Item Name="StockLowBid">{0} está disposto a oferecer {1}, você quer fazer sua oferta?
+Você comprou o estoque para {2} e vale atualmente {3}</Item>
+			<Item Name="InaccessibleRoom">Este quarto não é acessível a partir do exterior
+Conecte-o usando portas, elevadores ou escadas</Item>
+			<Item Name="Column widths">Largura das colunas</Item>
+			<Item Name="MonthLeft">{0} mês(es) restantes</Item>
+			<Item Name="DayLeft">{0} dia(s) restantes</Item>
+			<Item Name="MonthNotLeft">{0} mês(es) atrasado</Item>
+			<Item Name="DayNotLeft">{0} dia(s) atrasado</Item>
+			<Item Name="LastMonth">Último mês</Item>
+			<Item Name="LastDay">Último dia</Item>
+			<Item Name="ContractGoal">Objetivo: {0}%</Item>
+			<Item Name="ContractEarlyDay">{0} dia(s) adiantado</Item>
+			<Item Name="ContractLateDay">{0} dia(s) tarde demais</Item>
+			<Item Name="Mens Suit">Terno masculino</Item>
+			<Item Name="Womens Suit">Terno feminino</Item>
+			<Item Name="Small moustache">Bigode pequeno</Item>
+			<Item Name="Moustache">Bigode</Item>
+			<Item Name="Goatee">Cavanhaque</Item>
+			<Item Name="Eye shadow">Sombra de olho</Item>
+			<Item Name="Mens Beanie">Gorro masculino</Item>
+			<Item Name="Womens Beanie">Gorro feminino</Item>
+			<Item Name="KeyBindError">Não foi possível vincular ao botão pressionado</Item>
+			<Item Name="BoughtOutProductsStocks">Você recebeu {0} ações e os direitos para {1} produtos</Item>
+			<Item Name="WorkItemTeamFilter">Filtro baseado em equipes selecionadas</Item>
+	</Alpha8.11>
 </UI>
 

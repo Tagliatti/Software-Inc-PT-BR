@@ -1,22 +1,31 @@
 <Tutorial>
-    <Message id="ALPHA WORK1">O projeto agora foi promovido a alfa e o verdadeiro desenvolvimento começará.
+	<Message id="ALPHA WORK1">Seu projeto agora foi promovido para implementação.
 
-Alpha tem três estágios, em primeiro lugar "Alpha", em que o produto é desenvolvido, em seguida, uma possível "Delay", dependendo sobre como compentent seus funcionários estão e, finalmente, "Beta", em que o maior número de erros possível será corrigido.
+A fase de implementação tem três fases:
 
-Press "Promover" no menu ação quando o alfa está pronto. Note que você vai perder alguma qualidade, se você terminar a fase alfa prematurily, mas também pode ser a melhor coisa a fazer se você quiser bater um concorrente para o soco ou você está ficando sem dinheiro.
+1. "Alpha", no qual desenvolvedores e artistas criam o produto de acordo com as especificações e requisitos do projeto.
 
-o tutorial vai continuar uma vez que você começar a fase de atraso.</Message>
+2. "Atraso", dependendo de como seus funcionários são competentes, problemas inesperados podem surgir durante alfa, que precisam ser abordados antes de avançar.
+
+3. "Beta", em que os bugs são descobertos pelos programadores e esperamos que corrigidos antes da versão final.
+
+Pressione "Promover" no menu de ação quando o alfa estiver pronto. Note que você vai perder alguma qualidade se você terminar a fase alpha prematuramente, mas também pode ser a melhor coisa a fazer se você quiser bater um concorrente para o soco ou você está ficando sem dinheiro.
+
+O tutorial continuará assim que você começar a fase de atraso.</Message>
     <Message id="ALPHA WORK2">Seu Alpha entrou numa fase de atraso, em que os funcionários se esforçam para terminar o alfa.
-Press "Beta" ou aguarde o atraso para terminar.
+
+	Press "Beta" ou aguarde o atraso para terminar.
 
 Note-se que promover a beta irá adicionar erros extra, o que pode levar mais tempo para resolver do que a fase de atraso leva para terminar.
 
 o tutorial vai continuar uma vez que você começar a fase beta.</Message>
-    <Message id="ALPHA WORK3">Erros estão sendo corrigidos. A quantidade de erros que podem ser corrigidos depende da competência de seus funcionários.
+    <Message id="ALPHA WORK3">Os bugs estão sendo corrigidos. A quantidade de bugs que podem ser corrigidos depende da competência de seus funcionários.
 
-Press "Release" quando estiver pronto, mas nota que os erros vai custar-lhe no contrato de trabalho e adicionar mais trabalho quando você está apoiar um produto que lançou-se.
+Mesmo o melhor programador não pode descobrir todos os bugs e você terá que lidar com eles após o lançamento, respondendo aos bilhetes de suporte ao cliente.
 
-Press "End" para terminar o tutorial.</Message>
+Pressione "Liberar" quando estiver pronto.
+
+Pressione "End" para terminar o tutorial.</Message>
     <Message id="BUILD MODE1">Comece digitando "Modo de Construção", clicando no botão Build.</Message>
     <Message id="BUILD MODE2">O jogo é sempre uma pausa no modo de construção
 
@@ -78,8 +87,9 @@ Procurar os contratos agora e aceitar que você acha que soa justo.</Message>
     <Message id="CUSTOMIZATION2">Comece por escolher um nome para sua empresa.</Message>
     <Message id="CUSTOMIZATION3">Em seguida, escolher um nome para o seu fundador no jogo.</Message>
     <Message id="CUSTOMIZATION4">E um gênero.</Message>
-    <Message id="CUSTOMIZATION5">Estes botões permitem que você escolha as cores de seu fundador e seus/suas roupas.</Message>
-    <Message id="CUSTOMIZATION6">Estes botões irá percorrer diferentes estilos de cabelo, rostos, calças e jaquetas para o seu fundador.</Message>
+    <Message id="CUSTOMIZATION5">Você pode usar esses botões para escolher um aspecto da aparência do seu fundador que você deseja alterar.
+
+Você pode mudar a forma do rosto e sobrancelhas clicando no primeiro botão, eo último botão permite que você escolha as cores da pele, cabelo, acessórios e roupas de seu fundador.</Message>
     <Message id="CUSTOMIZATION7">Aqui você pode buscar traços de personalidade do fundador.
 
 Você pode escolher duas características que irão afectar o seu fundador comportamento (liderança, capacidade de aprender e preguiça) e as relações inter-office.</Message>
@@ -153,16 +163,16 @@ Usando controle de origem vai diminuir erros e acelerar o desenvolvimento, se o 
 Você. também pode verificar os próximos lançamentos de seus concorrentes para garantir que uma grande empresa não vai ofuscar seu produto
 
 o tempo é tudo quando você está apenas começando!</Message>
-    <Message id="DESIGN DOCUMENT16">Antes de terminar, certifique-se de inspecionar as informações nesta caixa. Este descreve tudo o que você precisa para desenvolver este produto.
+    <Message id="DESIGN DOCUMENT16">Antes de terminar, verifique as informações nesta caixa. Isso descreve tudo o que você precisa para desenvolver este produto.
 
-Tome nota especial do alcance do consumidor. alcance do consumidor é quantas pessoas podem potencialmente comprar o produto a partir de agora, este número pode aumentar ou diminuir à medida que desenvolve o produto. Para o software que dependem de sistemas operacionais, ele será limitado pelo número de pessoas está usando o sistema operacional e os seus sucessores
+Tome nota especial do alcance do consumidor. Alcance do consumidor é quantas pessoas podem potencialmente comprar o produto a partir de agora, este número pode diminuir ou aumentar à medida que desenvolver o produto. Para software que dependem de sistemas operacionais, ele será limitado por quantas pessoas estão usando o sistema operacional e seus sucessores.
 
-Você deve dobrar o tamanho da equipe sugerido por ter sobre como muitos designers como. sugerida e a mesma quantidade de programadores e artistas, dependendo de quantos artistas são necessários para o projeto específico.
+Ter mais do que a quantidade sugerida de funcionários nas equipes de desenvolvimento não aumentará a velocidade de desenvolvimento, mas pode realmente reduzi-lo em vez disso.</Message>
+    <Message id="DESIGN WORK1">Para começar a desenvolver o seu software, os designers precisam reunir um documento, que descreve como o software deve ser desenvolvido e estruturado, para se certificar de que todos estão na mesma página.
 
-Tendo mais do que os empregados sugeridas nas equipes de desenvolvimento não vai aumentar a velocidade de desenvolvimento, mas, de alguma casos reduzi-la em seu lugar.</Message>
-    <Message id="DESIGN WORK1">artigos do projeto de trabalho são trabalhados por designers ou funcionários em "Qualquer função" até que você promover o item de trabalho para alfa.
+Os itens de trabalho de design são trabalhados por designers ou funcionários em "Qualquer função" até que você promova o item de trabalho para alfa.
 
-Press "continuar" para avançar o tutorial.</Message>
+Pressione "continuar" para avançar o tutorial.</Message>
     <Message id="DESIGN WORK2">Comece por atribuir o item de trabalho para uma equipe, se você já não tiver. Passe o mouse sobre a área inferior do item de trabalho para abrir o menu de ação e selecione "Atribuir".
 
 Você pode também equipes de cancelar a atribuição para fazer uma pausa do trabalho.</Message>
@@ -309,7 +319,6 @@ Quando servidores estão conectados, um deles será o principal servidor para o 
 
 Se você selecionar um grupo de servidores, você pode ver uma lista de todos os processos em execução no grupo de servidores. Você pode então redelegate esses processos para outros servidores pressionando "redelegate selecionado".</Message>
     <Message id="SERVER4">Se você destruir um grupo de servidores completamente todos os processos serão sem suporte, que pode ter consequências graves.
-
 Se isso acontece, você deve clicar no botão "Ver processos não suportados" e redelegate todos os processos para outros servidores.
 
 Pressione Fim para terminar o tutorial.</Message>
