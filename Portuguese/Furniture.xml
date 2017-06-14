@@ -1,10 +1,10 @@
 <Furniture>
 	<Furniture Name="Elevator">
 		<Name>Elevador</Name>
-		<Description>Coloque elevadores empilhados para conectar salas de andares diferentes</Description>
+		<Description>Coloque elevadores em cima uns dos outros para conectar quartos em diferentes andares</Description>
 	</Furniture>
 	<Furniture Name="Stairs">
-		<Name>Stairs</Name>
+		<Name>Escadas</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Table">
@@ -285,6 +285,13 @@
 		<Color1>Casing</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
+	<Furniture Name="Big Server Rack">
+		<Name>Rack de Servidores grande</Name>
+		<Description>Quando você não pode obter servidor suficiente</Description>
+		<Color1>Casing</Color1>
+		<Color2>Casing</Color2>
+		<Color3>LED</Color3>
+	</Furniture>
 	<Furniture Name="Phone">
 		<Name>Telefone</Name>
 		<Description>Quem você vai para chamar? Suporte!</Description>
@@ -307,6 +314,14 @@
 		<Name>Caixa de mensagem</Name>
 		<Description>Ajudar a manter seus empregados organizados, especialmente útil para pessoas que não ouviram falar de e-mail</Description>
 		<Color1>Box</Color1>
+	</Furniture>
+	<Furniture Name="Small Product Printer">
+		<Name>Impressora de produto pequeno</Name>
+		<Description>Uma pequena impressora flexível para imprimir seus produtos</Description>
+	</Furniture>
+	<Furniture Name="Pallet">
+		<Name>Pallet</Name>
+		<Description>Pode suportar até 27 caixas com 1000 cópias em cada uma. Precisa estar na mesma sala de uma impressora.</Description>
 	</Furniture>
 	<Segment Name="Standard door">
 		<Name>Porta comum</Name>
